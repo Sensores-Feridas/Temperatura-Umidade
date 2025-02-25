@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ST25DV04K-IER6S3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-04-02-15:15:06)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-8N")
+        (spec "System")
+    )
+)

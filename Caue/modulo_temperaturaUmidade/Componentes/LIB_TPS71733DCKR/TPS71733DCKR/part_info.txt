@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS71733DCKR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2020-11-19 08:30:43
+Downloaded=2025-02-20 16:29:31
+3D=Y
