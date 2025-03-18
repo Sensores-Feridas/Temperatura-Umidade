@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SQ2364EES-T1_GE3
+D Automotive N-Channel 60 V (D-S)175C  MOS
+K
+F http://www.vishay.com/ppg?75975&quality
+$ENDCMP
+#
+#End Doc Library

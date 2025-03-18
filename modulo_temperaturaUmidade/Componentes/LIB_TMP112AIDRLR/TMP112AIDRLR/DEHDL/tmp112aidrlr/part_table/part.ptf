@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TMP112AIDRLR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TMP112AIDRLR" (!) = "", "SOTFL50P160X60-6N", "SO Transistor Flat Lead", "595-TMP112AIDRLR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMP112AIDRLR?qs=62Z1lCHpKYghtK4%2FJn2ysA%3D%3D", "Board Mount Temperature Sensors Hi-Prec Lo-Pwr Dig Temp Sensor", "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp112", "0.6 mm"
+END_PART
+
+END.

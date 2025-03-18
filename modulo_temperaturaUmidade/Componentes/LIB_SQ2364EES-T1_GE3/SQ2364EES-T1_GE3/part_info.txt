@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=SQ2364EES-T1_GE3
+PartCategory=MOSFET (N-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=1.1
+Released=2018-09-23 06:06:34
+Downloaded=2025-03-14 02:48:03
+3D=Y

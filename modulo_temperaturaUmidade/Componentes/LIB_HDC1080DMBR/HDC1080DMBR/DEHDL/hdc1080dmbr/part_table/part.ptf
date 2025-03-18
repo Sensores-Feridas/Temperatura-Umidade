@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HDC1080DMBR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "HDC1080DMBR" (!) = "", "SON100P300X300X80-7N-D", "Small Outline No-lead", "595-HDC1080DMBR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/HDC1080DMBR?qs=8%2FmU9qzJpL9OuhPLRSO9Vg%3D%3D", "HDC1080 Low Power, High Accuracy Digital Humidity Sensor with Temperature Sensor", "http://www.ti.com/lit/gpn/HDC1080", "0.8 mm"
+END_PART
+
+END.

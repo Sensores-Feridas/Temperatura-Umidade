@@ -1,0 +1,16 @@
+.TMP112AIDRLR :1 ;Board Mount Temperature Sensors Hi-Prec Lo-Pwr Dig Temp Sensor
+SOTFL50P160X60-6N
+*STM IC
+*NGS
+*PLB 1="SCL" 2="GND" 3="ALERT" 4="ADD0" 5="V+" 6="SDA"
+*MXP 6
+*DFN TMP112AIDRLR
+~!Mouser Part Number (595-TMP112AIDRLR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMP112AIDRLR?qs=62Z1lCHpKYghtK4%2FJn2ysA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TMP112AIDRLR)
+~!Link Datasheet (http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp112)
+~!Height (0.6mm)
+~!3D_Model (TMP112AIDRLR)
+TMP112AIDRLR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

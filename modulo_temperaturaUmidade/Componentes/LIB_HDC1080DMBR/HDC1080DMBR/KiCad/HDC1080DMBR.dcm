@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HDC1080DMBR
+D HDC1080 Low Power, High Accuracy Digital Humidity Sensor with Temperature Sensor
+K
+F http://www.ti.com/lit/gpn/HDC1080
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMP112AIDRLR
+D Board Mount Temperature Sensors Hi-Prec Lo-Pwr Dig Temp Sensor
+K
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp112
+$ENDCMP
+#
+#End Doc Library

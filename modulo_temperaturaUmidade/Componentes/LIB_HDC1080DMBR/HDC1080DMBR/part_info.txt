@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=HDC1080DMBR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=7
+Version=1.1
+Released=2019-05-21 13:05:58
+Downloaded=2025-03-07 12:54:22
+3D=Y

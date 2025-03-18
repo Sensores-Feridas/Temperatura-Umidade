@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_1264915"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-09-23-06:06:34)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 3) (portType INOUT))
+        (port "3" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SQ2364EES-T1_GE3")
+)
+
+
+(pinAssign "ECS_1264915"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-09-23-06:06:34)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "G") (portType INOUT))
+        (port "2" (symbPinId 3) (portName "S") (portType INOUT))
+        (port "3" (symbPinId 2) (portName "D") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1264915")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SQ2364EES-T1_GE3")
+)
+
+
+(part "SQ2364EES-T1_GE3"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-09-23-06:06:34)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "SQ2364EES-T1_GE3")
+    (pinAssignRef "ECS_1264915")
+    (interface
+        (port "1" (symbPinId 1) (portName "G") (portType INOUT))
+        (port "2" (symbPinId 3) (portName "S") (portType INOUT))
+        (port "3" (symbPinId 2) (portName "D") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Q")
+    (property "description" "Automotive N-Channel 60 V (D-S)175C  MOS")
+    (property "Mouser_Part_Number" "78-SQ2364EES-T1_GE3")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SQ2364EES-T1_GE3?qs=lYGu3FyN48cd%2FdtaQTPJxw%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "SQ2364EES-T1_GE3")
+    (property "Datasheet_Link" "http://www.vishay.com/ppg?75975&quality")
+    (property "compAreaTopHeight" 1.12)
+)
+
+

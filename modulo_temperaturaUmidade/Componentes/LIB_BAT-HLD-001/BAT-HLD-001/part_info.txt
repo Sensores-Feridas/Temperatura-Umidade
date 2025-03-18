@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=BAT-HLD-001
+PartCategory=Battery
+PackageCategory=Other
+PinCount=3
+Version=1.10
+Released=2023-07-31 10:06:24
+Downloaded=2025-02-20 16:34:30
+3D=Y

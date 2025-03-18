@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SQ2364EES_T1_GE3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "SQ2364EES-T1_GE3" (!) = "", "SOT95P237X112-3N", "SOT23 (3-Pin)", "78-SQ2364EES-T1_GE3", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SQ2364EES-T1_GE3?qs=lYGu3FyN48cd%2FdtaQTPJxw%3D%3D", "Automotive N-Channel 60 V (D-S)175C  MOS", "http://www.vishay.com/ppg?75975&quality", "1.12 mm"
+END_PART
+
+END.

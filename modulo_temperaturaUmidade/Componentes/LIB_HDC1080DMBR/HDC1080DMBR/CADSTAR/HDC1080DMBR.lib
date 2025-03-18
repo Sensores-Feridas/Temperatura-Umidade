@@ -1,0 +1,16 @@
+.HDC1080DMBR :1 ;HDC1080 Low Power, High Accuracy Digital Humidity Sensor with Temperature Sensor
+SON100P300X300X80-7N-D
+*STM IC
+*NGS
+*PLB 1="SDA" 2="GND" 3="NC_1" 4="NC_2" 5="VDD" 6="SCL" 7="EP"
+*MXP 7
+*DFN HDC1080DMBR
+~!Mouser Part Number (595-HDC1080DMBR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/HDC1080DMBR?qs=8%2FmU9qzJpL9OuhPLRSO9Vg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (HDC1080DMBR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/HDC1080)
+~!Height (0.8mm)
+~!3D_Model (HDC1080DMBR)
+HDC1080DMBR
+1.1!U 2.1!U 3.1!U 7.1!U 6.1!U 5.1!U 4.1!U 

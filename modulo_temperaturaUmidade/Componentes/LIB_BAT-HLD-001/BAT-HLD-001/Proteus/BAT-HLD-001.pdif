@@ -1,0 +1,113 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "BAT-HLD-001"
+   (description "Battery Holders, CR2032, 1 Position, Horizontal, Nickel, PCB Mount Alignment, Power, -40  257 F [-40  125 C]")
+   (family "ANA")
+   (package "BATHLD001")
+   (attribute "Datasheet Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FC-BAT-HLD-001-xx%7FE%7Fpdf%7FEnglish%7FENG_CD_C-BAT-HLD-001-xx_E.pdf%7FBAT-HLD-001")
+   (attribute "Geometry.Height" "4.3mm")
+   (attribute "Mouser Part Number" "712-BAT-HLD-001")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Linx-Technologies/BAT-HLD-001?qs=K5ta8V%252BWhta7hbVGfm4dqA%3D%3D")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "BAT-HLD-001")
+   (gate
+    (symbol "BAT-HLD-001")
+    (pin "+_1" 1 PS)
+    (pin "+_2" 2 PS)
+    (pin "-" 3 PS)
+   )
+  )
+  (symbol "BAT-HLD-001"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "BATHLD001"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 14.95 9.9)
+      (pt -14.95 9.9)
+      (pt -14.95 -9.9)
+      (pt 14.95 -9.9)
+      (pt 14.95 9.9))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -14.4 0)
+      (arc (pt -14.400 0.000) (pt -14.500 -0.050) (pt -14.400 0.050) (start 180.0) (sweep .0))
+      (pt -14.5 0)
+      (arc (pt -14.500 0.000) (pt -14.500 -0.050) (pt -14.400 0.050) (start 180.0) (sweep -180.0))
+      (pt -14.4 0))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 7.65)
+      (pt -8 7.65)
+      (pt -10.55 5)
+      (pt -10.55 -4)
+      (pt -8 -7.7)
+      (pt -6 -7.7)
+      (pt -1 -6)
+      (pt 1 -6)
+      (pt 6 -7.7)
+      (pt 8 -7.7)
+      (pt 10.55 -4)
+      (pt 10.55 5)
+      (pt 8 7.65)
+      (pt 0 7.65))))
+   (leg 1 (pt -11.450 0.000) (padstack 0))
+   (leg 2 (pt 11.450 0.000) (padstack 0))
+   (leg 3 (pt 0.000 0.000) (padstack 3))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.500 5.100 0 0 90.000))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (round 17.800))
+   )
+   (model "BAT-HLD-001.stp"
+    (euler 0 0 0)
+    (offset 0 -2.1700000762939453 2.1700000762939453)
+   )
+  )
+ )
+)

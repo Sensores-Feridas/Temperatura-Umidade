@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS71733DCKR
+D 150mA, High PSRR, Low Quiescent Current, Low Noise LDO
+K
+F http://www.ti.com/lit/gpn/tps717
+$ENDCMP
+#
+#End Doc Library
