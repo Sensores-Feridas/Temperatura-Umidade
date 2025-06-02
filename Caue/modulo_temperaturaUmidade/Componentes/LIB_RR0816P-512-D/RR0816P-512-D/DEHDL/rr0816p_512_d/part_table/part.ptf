@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RR0816P_512_D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Susumu", "RR0816P-512-D" (!) = "", "RESC1608X60N", "Other", "754-RR0816P-512D", "https://www.mouser.co.uk/ProductDetail/Susumu/RR0816P-512-D?qs=nCAm%252BcMdy9ypjTUx7cPUNg%3D%3D", "RESISTOR, 0603 5.1 KOhm +/- 0.5% 0.0625 W", "http://componentsearchengine.com/Datasheets/1/RR0816P-512-D.pdf"
+END_PART
+
+END.

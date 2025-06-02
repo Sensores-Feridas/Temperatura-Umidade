@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GRM155R71C104KA88D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GRM155R71C104KA88D" (!) = "", "CAPC1005X70N", "Capacitor Chip Non-polarised", "N/A", "", "Ceramic  SMT capacitor 100nF 16Vdc Murata 0402 GRM 100nF Ceramic Multilayer Capacitor, 16 V dc X7R Dielectric ??10%", "https://componentsearchengine.com/Datasheets/1/GRM155R71C104KA88D.pdf", "0.7 mm"
+END_PART
+
+END.

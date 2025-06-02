@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSL1001BT1C
+D Blue 468nm LED Indication - Discrete 2.8V 0603 (1608 Metric)
+K
+F https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/csl1001bt1(c)-e.pdf
+$ENDCMP
+#
+#End Doc Library

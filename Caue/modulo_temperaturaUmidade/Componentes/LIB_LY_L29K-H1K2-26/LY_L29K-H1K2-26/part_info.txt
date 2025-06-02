@@ -1,0 +1,9 @@
+Manufacturer=ams OSRAM
+PartNumber=LY L29K-H1K2-26
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2023-01-24 06:06:14
+Downloaded=2025-04-14 15:48:30
+3D=Y

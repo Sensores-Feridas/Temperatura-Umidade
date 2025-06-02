@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_18885690"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-03-18-09:35:29)
+    (utime 2025-03-18-09:35:29)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "SLW-913535-2A-RA-D")
+)
+
+
+(pinAssign "ECS_18885690"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-03-18-09:35:29)
+    (utime 2025-03-18-09:35:29)
+    (interface
+        (port "1" (symbPinId 1) (portName "NC") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "COM") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "NO") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_18885690")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SLW-913535-2A-RA-D")
+)
+
+
+(part "SLW-913535-2A-RA-D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-03-18-09:35:29)
+    (utime 2025-03-18-09:35:29)
+    (packageRef "SLW-913535-2A-RA-D")
+    (pinAssignRef "ECS_18885690")
+    (interface
+        (port "1" (symbPinId 1) (portName "NC") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "COM") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "NO") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "S")
+    (property "description" "9.1 x 3.5 x 3.5 mm, 2 mm Raised Slide Actuator, Right-Angle, Through Hole, Slide Switch")
+    (property "Mouser_Part_Number" "179-SLW-913535-2ARAD")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-913535-2A-RA-D?qs=1Kr7Jg1SGW9i2Ay3xtiJOw%3D%3D")
+    (property "Manufacturer_Name" "Same Sky")
+    (property "Manufacturer_Part_Number" "SLW-913535-2A-RA-D")
+    (property "Datasheet_Link" "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-913535-2a-ra-d.pdf")
+    (property "compAreaTopHeight" 3.7)
+)
+
+

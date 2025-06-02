@@ -1,0 +1,124 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LY_L29K-H1K2-26"
+   (description "Standard LEDs - SMD Smartled VIS")
+   (family "DIO")
+   (package "LYL29KH1K226")
+   (attribute "Datasheet Link" "https://dammedia.osram.info/media/resource/hires/osram-dam-5662688/LY%20L29K_EN.pdf")
+   (attribute "Geometry.Height" "0.67mm")
+   (attribute "Mouser Part Number" "720-LYL29KH1K226Z")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/LY-L29K-H1K2-26?qs=NTcu%252BMSV%252BkOdHd4qoSi5WQ%3D%3D")
+   (attribute "Manufacturer_Name" "ams OSRAM")
+   (attribute "Manufacturer_Part_Number" "LY L29K-H1K2-26")
+   (gate
+    (symbol "LY_L29K-H1K2-26")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "LY_L29K-H1K2-26"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 250 100) (pt 150 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 350 100) (pt 250 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 200 0) (pt 400 100) (pt 400 -100) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 210 170) (pt 180 140) (pt 150 200) (pt 210 170))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 310 170) (pt 280 140) (pt 250 200) (pt 310 170))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 10 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 600 0) (rot 0) (mir X) (visible true))
+    (name (pt 10 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "LYL29KH1K226"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.65 -0.4)
+      (pt 0.65 -0.4)
+      (pt 0.65 0.4)
+      (pt -0.65 0.4)
+      (pt -0.65 -0.4))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.15 1.4)
+      (pt 2.15 1.4)
+      (pt 2.15 -1.4)
+      (pt -2.15 -1.4)
+      (pt -2.15 1.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.7 0)
+      (arc (pt -1.700 0.000) (pt -1.700 -0.050) (pt -1.600 0.050) (start 180.0) (sweep 180.0))
+      (pt -1.6 0)
+      (arc (pt -1.600 0.000) (pt -1.700 -0.050) (pt -1.600 0.050) (start 180.0) (sweep .0))
+      (pt -1.7 0)
+      (arc (pt -1.700 0.000) (pt -1.700 -0.050) (pt -1.600 0.050) (start 180.0) (sweep 180.0))
+      (pt -1.6 0))))
+   (leg 1 (pt -0.750 0.000) (padstack 0))
+   (leg 2 (pt 0.750 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (square 0.800))
+   )
+   (model "LY_L29K-H1K2-26.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

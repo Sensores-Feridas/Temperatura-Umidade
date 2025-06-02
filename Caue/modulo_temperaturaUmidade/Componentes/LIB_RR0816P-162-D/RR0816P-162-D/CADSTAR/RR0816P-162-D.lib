@@ -1,0 +1,16 @@
+.RR0816P-162-D :1 ;1.6k 0603 Thin Film Surface Mount Resistor +/-0.5% 0.063W RR0816P-162-D
+RESC1608X50N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RR0816P-162-D
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Susumu)
+~!Manufacturer_Part_Number (RR0816P-162-D)
+~!Link Datasheet (http://www.susumu.co.jp/common/pdf/n_catalog_partition05_en.pdf)
+~!Height (0.5mm)
+~!3D_Model (RR0816P-162-D)
+RR0816P-162-D
+1.1!U 2.1!U 

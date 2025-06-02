@@ -1,0 +1,73 @@
+PULSONIX_LIBRARY_ASCII "SamacSys ECAD Model"
+//600981/1525947/2.50/2/0/Resistor
+
+(asciiHeader
+	(fileUnits MM)
+)
+(library Library_1
+	(padStyleDef "r93.98_76.2"
+		(holeDiam 0)
+		(padShape (layerNumRef 1) (padShapeType Rect)  (shapeWidth 0.762) (shapeHeight 0.9398))
+		(padShape (layerNumRef 16) (padShapeType Ellipse)  (shapeWidth 0) (shapeHeight 0))
+	)
+	(textStyleDef "Normal"
+		(font
+			(fontType Stroke)
+			(fontFace "Helvetica")
+			(fontHeight 1.27)
+			(strokeWidth 0.127)
+		)
+	)
+	(patternDef "RESC1608X60N" (originalName "RESC1608X60N")
+		(multiLayer
+			(pad (padNum 1) (padStyleRef r93.98_76.2) (pt -0.8382, 0) (rotation 0))
+			(pad (padNum 2) (padStyleRef r93.98_76.2) (pt 0.8382, 0) (rotation 0))
+		)
+		(layerContents (layerNumRef 18)
+			(attr "RefDes" "RefDes" (pt -3.4544, 1.27) (textStyleRef "Normal") (isVisible True))
+		)
+		(layerContents (layerNumRef 18)
+			(line (pt -0.127 -0.4826) (pt 0.127 -0.4826) (width 0.1524))
+		)
+		(layerContents (layerNumRef 18)
+			(line (pt 0.127 0.4826) (pt -0.127 0.4826) (width 0.1524))
+		)
+	)
+	(symbolDef "RR0816P-331-D" (originalName "RR0816P-331-D")
+
+		(pin (pinNum 1) (pt 0 mils 0 mils) (rotation 0) (pinLength 200 mils) (pinDisplay (dispPinName false)) (pinName (text (pt 0 mils -35 mils) (rotation 0]) (justify "UpperLeft") (textStyleRef "Normal"))
+		))
+		(pin (pinNum 2) (pt 700 mils 0 mils) (rotation 180) (pinLength 200 mils) (pinDisplay (dispPinName false)) (pinName (text (pt 700 mils -35 mils) (rotation 0]) (justify "UpperRight") (textStyleRef "Normal"))
+		))
+		(line (pt 200 mils 50 mils) (pt 500 mils 50 mils) (width 6 mils))
+		(line (pt 500 mils 50 mils) (pt 500 mils -50 mils) (width 6 mils))
+		(line (pt 500 mils -50 mils) (pt 200 mils -50 mils) (width 6 mils))
+		(line (pt 200 mils -50 mils) (pt 200 mils 50 mils) (width 6 mils))
+		(attr "RefDes" "RefDes" (pt 550 mils 250 mils) (justify Left) (isVisible True) (textStyleRef "Normal"))
+		(attr "Type" "Type" (pt 550 mils 150 mils) (justify Left) (isVisible True) (textStyleRef "Normal"))
+
+	)
+	(compDef "RR0816P-331-D" (originalName "RR0816P-331-D") (compHeader (numPins 2) (numParts 1) (refDesPrefix R)
+		)
+		(compPin "1" (pinName "R1") (partNum 1) (symPinNum 1) (gateEq 0) (pinEq 0) (pinType Unknown))
+		(compPin "2" (pinName "R2") (partNum 1) (symPinNum 2) (gateEq 0) (pinEq 0) (pinType Unknown))
+		(attachedSymbol (partNum 1) (altType Normal) (symbolName "RR0816P-331-D"))
+		(attachedPattern (patternNum 1) (patternName "RESC1608X60N")
+			(numPads 2)
+			(padPinMap
+				(padNum 1) (compPinRef "1")
+				(padNum 2) (compPinRef "2")
+			)
+		)
+		(attr "Mouser Part Number" "754-RR0816P-331D")
+		(attr "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=754-RR0816P-331D")
+		(attr "Manufacturer_Name" "Susumu")
+		(attr "Manufacturer_Part_Number" "RR0816P-331-D")
+		(attr "Description" "RESISTOR, 0603 330 Ohm +/- 0.5% 0.0625 W")
+		(attr "<Hyperlink>" "https://componentsearchengine.com/Datasheets/1/RR0816P-331-D.pdf")
+		(attr "<STEP Filename>" "RR0816P-331-D.stp")
+		(attr "<STEP Offsets>" "X=0;Y=0;Z=0.2")
+		(attr "<STEP Rotation>" "X=90;Y=0;Z=0")
+	)
+
+)

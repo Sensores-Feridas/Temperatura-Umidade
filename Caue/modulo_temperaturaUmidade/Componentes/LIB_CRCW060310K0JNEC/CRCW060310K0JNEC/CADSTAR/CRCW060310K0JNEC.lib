@@ -1,0 +1,16 @@
+.CRCW060310K0JNEC :1 ;Standard Thick Film Chip Resistors value 10K0 ohm.
+RESC1608X50N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CRCW060310K0JNEC
+~!Mouser Part Number (71-CRCW060310K0JNEC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW060310K0JNEC?qs=gnZt%252BHwOA9IkijYdcORGsg%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CRCW060310K0JNEC)
+~!Link Datasheet (http://www.vishay.com/docs/20035/dcrcwe3.pdf)
+~!Height (0.5mm)
+~!3D_Model (CRCW060310K0JNEC)
+CRCW060310K0JNEC
+1.1!U 2.1!U 

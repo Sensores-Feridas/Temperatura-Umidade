@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=CRCW060310K0JNEC
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.13
+Released=2023-03-07 09:13:26
+Downloaded=2025-04-11 21:02:27
+3D=Y

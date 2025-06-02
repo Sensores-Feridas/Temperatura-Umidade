@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SLW-913535-2A-RA-D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-03-18-09:35:29)
+    (mountForm default
+        (footprintRef "SLW9135352ARAD")
+        (spec "System")
+    )
+)

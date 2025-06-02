@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=C0603C104K4RACTU
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=8.1
+Released=2015-12-28 05:58:35
+Downloaded=2025-04-11 21:29:30
+3D=Y

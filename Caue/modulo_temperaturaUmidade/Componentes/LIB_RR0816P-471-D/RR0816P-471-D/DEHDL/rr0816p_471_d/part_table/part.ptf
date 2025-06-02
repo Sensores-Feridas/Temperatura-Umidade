@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RR0816P_471_D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Susumu", "RR0816P-471-D" (!) = "", "RESC1608X60N", "Other", "754-RR0816P-471D", "https://www.mouser.co.uk/ProductDetail/Susumu/RR0816P-471-D?qs=nCAm%252BcMdy9z%252BkLCZMJVh9Q%3D%3D", "RESISTOR, 0603 470 Ohm +/- 0.5% 0.0625 W", ""
+END_PART
+
+END.

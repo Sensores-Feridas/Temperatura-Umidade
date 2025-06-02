@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_600988"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-12-09:36:53)
+    (utime 2024-11-15-13:35:08)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RR0816P-471-D")
+)
+
+
+(pinAssign "ECS_600988"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-12-09:36:53)
+    (utime 2024-11-15-13:35:08)
+    (interface
+        (port "1" (symbPinId 1) (portName "R1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "R2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_600988")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RR0816P-471-D")
+)
+
+
+(part "RR0816P-471-D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-12-09:36:53)
+    (utime 2024-11-15-13:35:08)
+    (packageRef "RR0816P-471-D")
+    (pinAssignRef "ECS_600988")
+    (interface
+        (port "1" (symbPinId 1) (portName "R1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "R2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "RESISTOR, 0603 470 Ohm +/- 0.5% 0.0625 W")
+    (property "Mouser_Part_Number" "754-RR0816P-471D")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Susumu/RR0816P-471-D?qs=nCAm%252BcMdy9z%252BkLCZMJVh9Q%3D%3D")
+    (property "Manufacturer_Name" "Susumu")
+    (property "Manufacturer_Part_Number" "RR0816P-471-D")
+    (property "Datasheet_Link" "")
+)
+
+

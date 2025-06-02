@@ -1,0 +1,16 @@
+.LY_L29K-H1K2-26 :1 ;Standard LEDs - SMD Smartled VIS
+LYL29KH1K226
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN LY_L29K-H1K2-26
+~!Mouser Part Number (720-LYL29KH1K226Z)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ams-OSRAM/LY-L29K-H1K2-26?qs=NTcu%252BMSV%252BkOdHd4qoSi5WQ%3D%3D)
+~!Manufacturer_Name (ams OSRAM)
+~!Manufacturer_Part_Number (LY L29K-H1K2-26)
+~!Link Datasheet (https://dammedia.osram.info/media/resource/hires/osram-dam-5662688/LY%20L29K_EN.pdf)
+~!Height (0.67mm)
+~!3D_Model (LY_L29K-H1K2-26)
+LY_L29K-H1K2-26
+1.1!U 2.1!U 

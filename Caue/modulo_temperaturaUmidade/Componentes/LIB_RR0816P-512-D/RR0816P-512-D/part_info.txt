@@ -1,0 +1,9 @@
+Manufacturer=Susumu
+PartNumber=RR0816P-512-D
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2017-01-12 09:36:53
+Downloaded=2025-04-10 13:04:06
+3D=Y

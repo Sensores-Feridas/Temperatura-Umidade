@@ -1,0 +1,16 @@
+.GRM155R71C103KA01D :1 ;Ceramic  SMT capacitor 10nF 16Vdc Murata 0402 GRM 10nF Ceramic Multilayer Capacitor, 16 V dc, +125degC, X7R Dielectric,  /-10%
+CAPC1005X70N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN GRM155R71C103KA01D
+~!Mouser Part Number (81-GRM36X103K16)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM155R71C103KA01D?qs=8YPuuxuUzMI%252B9QLnzeLwhQ%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (GRM155R71C103KA01D)
+~!Link Datasheet (https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C103KA01-01A.pdf)
+~!Height (0.7mm)
+~!3D_Model (GRM155R71C103KA01D)
+GRM155R71C103KA01D
+1.1!U 2.1!U 

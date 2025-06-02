@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRCW060310K0JNEC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "CRCW060310K0JNEC" (!) = "", "RESC1608X50N", "Resistor Chip", "71-CRCW060310K0JNEC", "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW060310K0JNEC?qs=gnZt%252BHwOA9IkijYdcORGsg%3D%3D", "Standard Thick Film Chip Resistors value 10K0 ohm.", "http://www.vishay.com/docs/20035/dcrcwe3.pdf", "0.5 mm"
+END_PART
+
+END.

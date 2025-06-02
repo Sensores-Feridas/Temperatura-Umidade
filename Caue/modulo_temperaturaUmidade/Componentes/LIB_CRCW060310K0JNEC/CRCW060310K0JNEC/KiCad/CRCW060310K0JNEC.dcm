@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CRCW060310K0JNEC
+D Standard Thick Film Chip Resistors value 10K0 ohm.
+K
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+$ENDCMP
+#
+#End Doc Library

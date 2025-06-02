@@ -1,0 +1,16 @@
+.LTST-C170KSKT :1 ;Lite-On CHIPLED 0805 587 nm Yellow LED, 2012 (0805) SMD package
+LEDC2012X120N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN LTST-C170KSKT
+~!Mouser Part Number (859-LTST-C170KSKT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170KSKT?qs=AE3TPmDL7tsrsw78NmHd9g%3D%3D)
+~!Manufacturer_Name (Lite-On)
+~!Manufacturer_Part_Number (LTST-C170KSKT)
+~!Link Datasheet (http://optoelectronics.liteon.com/upload/download/ds-22-99-0188/ltst-c170kskt.pdf)
+~!Height (1.2mm)
+~!3D_Model (LTST-C170KSKT)
+LTST-C170KSKT
+1.1!U 2.1!U 

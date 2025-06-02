@@ -1,0 +1,16 @@
+.CSL1001BT1C :1 ;Blue 468nm LED Indication - Discrete 2.8V 0603 (1608 Metric)
+CSL1001BT1C
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN CSL1001BT1C
+~!Mouser Part Number (755-CSL1001BT1C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/CSL1001BT1C?qs=HoCaDK9Nz5fqNTX3Pg0ReA%3D%3D)
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (CSL1001BT1C)
+~!Link Datasheet (https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/csl1001bt1(c)-e.pdf)
+~!Height (1.16mm)
+~!3D_Model (CSL1001BT1C)
+CSL1001BT1C
+1.1!U 2.1!U 

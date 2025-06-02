@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RR0816P_331_D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Susumu", "RR0816P-331-D" (!) = "", "RESC1608X60N", "Other", "754-RR0816P-331D", "https://www.mouser.com/Search/Refine.aspx?Keyword=754-RR0816P-331D", "RESISTOR, 0603 330 Ohm +/- 0.5% 0.0625 W", "https://componentsearchengine.com/Datasheets/1/RR0816P-331-D.pdf"
+END_PART
+
+END.

@@ -1,0 +1,104 @@
+Change Component Parameter Description in A1 Old=Antena NFC 13.56MHz New=Antennas RFID/NFC FPC, ANT, 13.56MHZ, FERRITE, ROUND
+Change Value of Parameter MPN in Part A1 Old= New=L000642-01  
+Change Value of Parameter Supplier in Part A1 Old= New=Mouser
+Change Value of Parameter Value in Part A1 Old= New=L000642-01  
+Change Component Parameter Description in BT1 Old=Battery New=Coin Cell Battery Holders Linx CR2032 Battery Holder
+Change Value of Parameter MPN in Part BT1 Old= New=BAT-HLD-001  
+Change Value of Parameter Supplier in Part BT1 Old= New=Mouser
+Change Value of Parameter Value in Part BT1 Old= New=BAT-HLD-001  
+Change Value of Parameter Supplier in Part C1 Old= New=Mouser
+Change Value of Parameter Supplier in Part C2 Old= New=Mouser
+Change Value of Parameter Supplier in Part C3 Old= New=Mouser
+Change Value of Parameter Supplier in Part C4 Old= New=Mouser
+Change Value of Parameter Supplier in Part C5 Old= New=Mouser
+Change Value of Parameter Supplier in Part C6 Old= New=Mouser
+Change Value of Parameter Supplier in Part C7 Old= New=Mouser
+Change Value of Parameter Supplier in Part C8 Old= New=Mouser
+Change Value of Parameter Supplier in Part C9 Old= New=Mouser
+Change Value of Parameter Supplier in Part C10 Old= New=Mouser
+Change Value of Parameter Supplier in Part C11 Old= New=Mouser
+Change Value of Parameter Supplier in Part C12 Old= New=Mouser
+Change Value of Parameter Supplier in Part C13 Old= New=Mouser
+Change Value of Parameter Supplier in Part C14 Old= New=Mouser
+Change Value of Parameter Supplier in Part C15 Old= New=Mouser
+Change Value of Parameter Supplier in Part C16 Old= New=Mouser
+Change Value of Parameter Supplier in Part C17 Old= New=Mouser
+Change Value of Parameter Supplier in Part C18 Old= New=Mouser
+Change Value of Parameter Supplier in Part C19 Old= New=Mouser
+Change Value of Parameter Supplier in Part C20 Old= New=Mouser
+Change Value of Parameter Supplier in Part C21 Old= New=Mouser
+Change Value of Parameter Supplier in Part C22 Old= New=Mouser
+Change Value of Parameter Supplier in Part C23 Old= New=Mouser
+Change Value of Parameter Supplier in Part C24 Old= New=Mouser
+Change Value of Parameter Supplier in Part C25 Old= New=Mouser
+Change Value of Parameter Supplier in Part D1 Old= New=Mouser
+Change Value of Parameter Supplier in Part D2 Old= New=Mouser
+Change Value of Parameter Supplier in Part D3 Old= New=Mouser
+Change Value of Parameter Supplier in Part D4 Old= New=Mouser
+Change Component Parameter Description in IC1 Old=Integrated Circuit New=Board Mount Humidity Sensors 2% RH low-power digital relative humidit A 595-HDC1080DMBT
+Change Value of Parameter MPN in Part IC1 Old= New=HDC1080DMBR
+Change Value of Parameter Supplier in Part IC1 Old= New=Mouser
+Change Value of Parameter Value in Part IC1 Old= New=HDC1080DMBR
+Change Component Parameter Description in IC2 Old=Integrated Circuit New=Board Mount Temperature Sensors Hi-Prec Lo-Pwr Dig T emp Sensor A 595-TMP112AIDRLT
+Change Value of Parameter MPN in Part IC2 Old= New=TMP112AIDRLR
+Change Value of Parameter Supplier in Part IC2 Old= New=Mouser
+Change Value of Parameter Value in Part IC2 Old= New=TMP112AIDRLR
+Change Component Parameter Description in IC3 Old=Integrated Circuit New=Board Mount Temperature Sensors Hi-Prec Lo-Pwr Dig T emp Sensor A 595-TMP112AIDRLT
+Change Value of Parameter MPN in Part IC3 Old= New=TMP112AIDRLR
+Change Value of Parameter Supplier in Part IC3 Old= New=Mouser
+Change Value of Parameter Value in Part IC3 Old= New=TMP112AIDRLR
+Change Component Parameter Description in IC4 Old=Integrated Circuit New=Board Mount Temperature Sensors Hi-Prec Lo-Pwr Dig T emp Sensor A 595-TMP112AIDRLT
+Change Value of Parameter MPN in Part IC4 Old= New=TMP112AIDRLR
+Change Value of Parameter Supplier in Part IC4 Old= New=Mouser
+Change Value of Parameter Value in Part IC4 Old= New=TMP112AIDRLR
+Change Component Parameter Description in IC5 Old=Integrated Circuit New=LDO Voltage Regulators Sgl Output LDO 150mA Fixed(3.3V) Hi PSRR A 595-TPS71733DCKT
+Change Value of Parameter MPN in Part IC5 Old= New=TPS71733DCKR
+Change Value of Parameter Supplier in Part IC5 Old= New=Mouser
+Change Value of Parameter Value in Part IC5 Old= New=TPS71733DCKR
+Change Component Parameter Description in IC6 Old=Integrated Circuit New=Board Mount Temperature Sensors Hi-Prec Lo-Pwr Dig T emp Sensor A 595-TMP112AIDRLT
+Change Value of Parameter MPN in Part IC6 Old= New=TMP112AIDRLR
+Change Value of Parameter Supplier in Part IC6 Old= New=Mouser
+Change Value of Parameter Value in Part IC6 Old= New=TMP112AIDRLR
+Change Component Parameter Description in IC7 Old=Integrated Circuit New=Multiprotocol Modules SMD module, ESP32-C3FN4, PCB antenna, -40C - +85C
+Change Value of Parameter MPN in Part IC7 Old= New=ESP32-C3-MINI-1-N4
+Change Value of Parameter Supplier in Part IC7 Old= New=Mouser
+Change Value of Parameter Value in Part IC7 Old= New=ESP32-C3-MINI-1-N4
+Change Component Parameter Description in IC8 Old=Integrated Circuit New=Battery Management Charge mgnt contr
+Change Value of Parameter MPN in Part IC8 Old= New=MCP73831T-2ACI/OT
+Change Value of Parameter Supplier in Part IC8 Old= New=Mouser
+Change Value of Parameter Value in Part IC8 Old= New=MCP73831T-2ACI/OT
+Change Component Parameter Description in IC9 Old=Integrated Circuit New=NFC/RFID Tags & Transponders Dynamic NFC/RFID tag IC 4-Kbit EEPROM, and fast transfer mode capability
+Change Value of Parameter MPN in Part IC9 Old= New=ST25DV04K-IER6S3
+Change Value of Parameter Supplier in Part IC9 Old= New=Mouser
+Change Value of Parameter Value in Part IC9 Old= New=ST25DV04K-IER6S3
+Change Component Parameter Description in J1 Old= New=USB Connectors USB Type C,2.0, Rec,SMT, 0.95mmTH Shell Stakes,G/F,RA,Top Mnt,T&R
+Change Value of Parameter MPN in Part J1 Old= New=USB4105-GF-A
+Change Value of Parameter Supplier in Part J1 Old= New=Mouser
+Change Value of Parameter Value in Part J1 Old= New=USB4105-GF-A
+Change Component Parameter Description in Q1 Old=MOSFET (N-Channel) New=MOSFETs 60V Vds; +/-8V Vgs SOT-23; 4A Id
+Change Value of Parameter MPN in Part Q1 Old= New=SQ2364EES-T1_GE3
+Change Value of Parameter Supplier in Part Q1 Old= New=Mouser
+Change Value of Parameter Value in Part Q1 Old= New=SQ2364EES-T1_GE3
+Change Value of Parameter Supplier in Part R1 Old= New=Mouser
+Change Value of Parameter Supplier in Part R2 Old= New=Mouser
+Change Value of Parameter Supplier in Part R3 Old= New=Mouser
+Change Value of Parameter Supplier in Part R4 Old= New=Mouser
+Change Value of Parameter Supplier in Part R5 Old= New=Mouser
+Change Value of Parameter Supplier in Part R6 Old= New=Mouser
+Change Value of Parameter Supplier in Part R7 Old= New=Mouser
+Change Value of Parameter Supplier in Part R8 Old= New=Mouser
+Change Value of Parameter Supplier in Part R9 Old= New=Mouser
+Change Value of Parameter Supplier in Part R10 Old= New=Mouser
+Change Value of Parameter Supplier in Part R11 Old= New=Mouser
+Change Value of Parameter Supplier in Part R12 Old= New=Mouser
+Change Value of Parameter Supplier in Part R13 Old= New=Mouser
+Change Value of Parameter Supplier in Part R14 Old= New=Mouser
+Change Value of Parameter Supplier in Part R15 Old= New=Mouser
+Change Value of Parameter Supplier in Part R16 Old= New=Mouser
+Change Value of Parameter Supplier in Part R17 Old= New=Mouser
+Change Value of Parameter Supplier in Part R18 Old= New=Mouser
+Change Value of Parameter Supplier in Part R19 Old= New=Mouser
+Change Component Parameter Description in S1 Old=Switch New=Slide Switches 9.1 x 3.5 x 3.5 mm, 2 mm Raised Slide Actuator, Right-Angle, Through Hole
+Change Value of Parameter MPN in Part S1 Old= New=SLW-913535-2A-RA-D
+Change Value of Parameter Supplier in Part S1 Old= New=Mouser
+Change Value of Parameter Value in Part S1 Old= New=SLW-913535-2A-RA-D

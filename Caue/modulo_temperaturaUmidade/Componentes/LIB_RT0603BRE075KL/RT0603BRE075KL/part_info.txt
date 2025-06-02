@@ -1,0 +1,9 @@
+Manufacturer=YAGEO
+PartNumber=RT0603BRE075KL
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2023-04-17 09:15:39
+Downloaded=2025-04-11 20:51:57
+3D=Y

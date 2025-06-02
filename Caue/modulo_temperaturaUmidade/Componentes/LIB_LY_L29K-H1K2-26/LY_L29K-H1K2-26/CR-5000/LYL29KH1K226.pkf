@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LYL29KH1K226"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LYL29KH1K226")
+        (spec "default")
+    )
+)

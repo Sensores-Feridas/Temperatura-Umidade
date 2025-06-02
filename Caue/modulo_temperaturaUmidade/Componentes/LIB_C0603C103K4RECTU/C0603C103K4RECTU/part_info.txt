@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=C0603C103K4RECTU
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=5.1
+Released=2022-02-19 15:28:01
+Downloaded=2025-04-11 21:16:24
+3D=Y

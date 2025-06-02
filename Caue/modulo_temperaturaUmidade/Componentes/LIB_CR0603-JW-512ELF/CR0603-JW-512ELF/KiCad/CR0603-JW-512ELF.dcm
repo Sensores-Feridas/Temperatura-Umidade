@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CR0603-JW-512ELF
+D Bourns CR0603 Series Thick Film Surface Mount Resistor 0603 Case 5.1k 0.1W +/-200ppm/C
+K
+F https://www.bourns.com/pdfs/chpreztr.pdf
+$ENDCMP
+#
+#End Doc Library

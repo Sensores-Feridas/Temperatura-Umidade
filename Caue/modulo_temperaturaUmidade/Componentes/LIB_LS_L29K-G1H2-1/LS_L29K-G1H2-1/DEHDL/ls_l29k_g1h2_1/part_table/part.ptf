@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LS_L29K_G1H2_1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ams OSRAM", "LS L29K-G1H2-1" (!) = "", "LEDC1308X67N", "LEDs Chip", "720-LSL29K-G1H2-1-Z", "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/LS-L29K-G1H2-1?qs=%252BEew9%252B0nqrDH0GMMtFi6lA%3D%3D", "1.8 V Red High-Power LED 1608 (0603) SMD,Osram Opto SmartLED LS L29K-G1H2-1", "https://dammedia.osram.info/media/resource/hires/osram-dam-5662679/LS%20L29K_EN.pdf", "0.67 mm"
+END_PART
+
+END.

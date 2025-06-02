@@ -1,0 +1,16 @@
+.RR0816P-512-D :1 ;RESISTOR, 0603 5.1 KOhm +/- 0.5% 0.0625 W
+RESC1608X60N
+*STM R
+*NGS
+*PLB 1="R1" 2="R2"
+*MXP 2
+*DFN RR0816P-512-D
+~!Mouser Part Number (754-RR0816P-512D)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Susumu/RR0816P-512-D?qs=nCAm%252BcMdy9ypjTUx7cPUNg%3D%3D)
+~!Manufacturer_Name (Susumu)
+~!Manufacturer_Part_Number (RR0816P-512-D)
+~!Link Datasheet (http://componentsearchengine.com/Datasheets/1/RR0816P-512-D.pdf)
+~!Height (-)
+~!3D_Model (RR0816P-512-D)
+RR0816P-512-D
+1.1!U 2.1!U 

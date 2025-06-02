@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LG_L29K-F2J1-24"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-01-30-14:23:31)
+    (mountForm default
+        (footprintRef "LEDC1308X67N")
+        (spec "System")
+    )
+)

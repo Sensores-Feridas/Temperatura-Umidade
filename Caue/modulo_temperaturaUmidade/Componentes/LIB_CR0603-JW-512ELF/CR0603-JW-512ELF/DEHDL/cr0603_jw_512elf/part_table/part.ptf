@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CR0603_JW_512ELF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "CR0603-JW-512ELF" (!) = "", "RESC1608X55N", "Resistor Chip", "652-CR0603JW-512ELF", "https://www.mouser.co.uk/ProductDetail/Bourns/CR0603-JW-512ELF?qs=tknLyCMIRbPZxuQi5AOTVg%3D%3D", "Bourns CR0603 Series Thick Film Surface Mount Resistor 0603 Case 5.1k 0.1W +/-200ppm/C", "https://www.bourns.com/pdfs/chpreztr.pdf", "0.55 mm"
+END_PART
+
+END.

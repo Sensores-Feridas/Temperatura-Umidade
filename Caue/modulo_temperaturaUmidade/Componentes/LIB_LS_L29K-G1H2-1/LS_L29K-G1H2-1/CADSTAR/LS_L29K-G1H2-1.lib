@@ -1,0 +1,16 @@
+.LS_L29K-G1H2-1 :1 ;1.8 V Red High-Power LED 1608 (0603) SMD,Osram Opto SmartLED LS L29K-G1H2-1
+LEDC1308X67N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN LS_L29K-G1H2-1
+~!Mouser Part Number (720-LSL29K-G1H2-1-Z)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ams-OSRAM/LS-L29K-G1H2-1?qs=%252BEew9%252B0nqrDH0GMMtFi6lA%3D%3D)
+~!Manufacturer_Name (ams OSRAM)
+~!Manufacturer_Part_Number (LS L29K-G1H2-1)
+~!Link Datasheet (https://dammedia.osram.info/media/resource/hires/osram-dam-5662679/LS%20L29K_EN.pdf)
+~!Height (0.67mm)
+~!3D_Model (LS_L29K-G1H2-1)
+LS_L29K-G1H2-1
+1.1!U 2.1!U 

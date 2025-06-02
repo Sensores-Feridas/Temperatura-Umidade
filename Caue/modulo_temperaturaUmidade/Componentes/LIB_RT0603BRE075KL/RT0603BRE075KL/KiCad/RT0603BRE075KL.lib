@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RT0603BRE075KL
+#/16566265/1525947/2.50/2/3/Resistor
+DEF RT0603BRE075KL R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "RT0603BRE075KL" 550 150 50 H V L CNN
+F2 "RESC1608X55N" 550 50 50 H I L CNN
+F3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_13.pdf" 550 -50 50 H I L CNN
+F4 "Thin Film Resistors - SMD 5K ohm 0.1% 50 ppm High-Precision" 550 -150 50 H I L CNN "Description"
+F5 "0.55" 550 -250 50 H I L CNN "Height"
+F6 "603-RT0603BRE075KL" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/YAGEO/RT0603BRE075KL?qs=acBVhj9v9XV8K9glB49uvw%3D%3D" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "YAGEO" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "RT0603BRE075KL" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#End Library

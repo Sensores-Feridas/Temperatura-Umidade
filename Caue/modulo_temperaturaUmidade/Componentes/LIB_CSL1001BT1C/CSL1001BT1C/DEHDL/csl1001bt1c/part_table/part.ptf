@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CSL1001BT1C'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ROHM Semiconductor", "CSL1001BT1C" (!) = "", "CSL1001BT1C", "Other", "755-CSL1001BT1C", "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/CSL1001BT1C?qs=HoCaDK9Nz5fqNTX3Pg0ReA%3D%3D", "Blue 468nm LED Indication - Discrete 2.8V 0603 (1608 Metric)", "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/csl1001bt1(c)-e.pdf", "1.16 mm"
+END_PART
+
+END.

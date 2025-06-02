@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RR0816P-162-D
+D 1.6k 0603 Thin Film Surface Mount Resistor +/-0.5% 0.063W RR0816P-162-D
+K
+F http://www.susumu.co.jp/common/pdf/n_catalog_partition05_en.pdf
+$ENDCMP
+#
+#End Doc Library

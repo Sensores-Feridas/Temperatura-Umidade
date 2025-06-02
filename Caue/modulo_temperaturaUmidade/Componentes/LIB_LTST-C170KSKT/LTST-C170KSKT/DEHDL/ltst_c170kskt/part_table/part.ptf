@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTST_C170KSKT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Lite-On", "LTST-C170KSKT" (!) = "", "LEDC2012X120N", "LEDs Chip", "859-LTST-C170KSKT", "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170KSKT?qs=AE3TPmDL7tsrsw78NmHd9g%3D%3D", "Lite-On CHIPLED 0805 587 nm Yellow LED, 2012 (0805) SMD package", "http://optoelectronics.liteon.com/upload/download/ds-22-99-0188/ltst-c170kskt.pdf", "1.2 mm"
+END_PART
+
+END.

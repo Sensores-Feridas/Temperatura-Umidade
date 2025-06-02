@@ -1,0 +1,9 @@
+Manufacturer=ROHM Semiconductor
+PartNumber=CSL1001BT1C
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2024-04-18 03:52:54
+Downloaded=2025-04-14 15:35:27
+3D=Y

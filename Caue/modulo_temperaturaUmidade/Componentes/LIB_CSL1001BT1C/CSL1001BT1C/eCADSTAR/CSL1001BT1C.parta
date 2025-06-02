@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_18892683"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-18-03:52:54)
+    (utime 2024-04-18-03:52:54)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CSL1001BT1C")
+)
+
+
+(pinAssign "ECS_18892683"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-18-03:52:54)
+    (utime 2024-04-18-03:52:54)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_18892683")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CSL1001BT1C")
+)
+
+
+(part "CSL1001BT1C"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-18-03:52:54)
+    (utime 2024-04-18-03:52:54)
+    (packageRef "CSL1001BT1C")
+    (pinAssignRef "ECS_18892683")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Blue 468nm LED Indication - Discrete 2.8V 0603 (1608 Metric)")
+    (property "Mouser_Part_Number" "755-CSL1001BT1C")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/CSL1001BT1C?qs=HoCaDK9Nz5fqNTX3Pg0ReA%3D%3D")
+    (property "Manufacturer_Name" "ROHM Semiconductor")
+    (property "Manufacturer_Part_Number" "CSL1001BT1C")
+    (property "Datasheet_Link" "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/csl1001bt1(c)-e.pdf")
+    (property "compAreaTopHeight" 1.16)
+)
+
+

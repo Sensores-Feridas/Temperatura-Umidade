@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTST-C170KSKT
+D Lite-On CHIPLED 0805 587 nm Yellow LED, 2012 (0805) SMD package
+K
+F http://optoelectronics.liteon.com/upload/download/ds-22-99-0188/ltst-c170kskt.pdf
+$ENDCMP
+#
+#End Doc Library

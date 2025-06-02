@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LY_L29K_H1K2_26'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ams OSRAM", "LY L29K-H1K2-26" (!) = "", "LYL29KH1K226", "Other", "720-LYL29KH1K226Z", "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/LY-L29K-H1K2-26?qs=NTcu%252BMSV%252BkOdHd4qoSi5WQ%3D%3D", "Standard LEDs - SMD Smartled VIS", "https://dammedia.osram.info/media/resource/hires/osram-dam-5662688/LY%20L29K_EN.pdf", "0.67 mm"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LG_L29K_F2J1_24'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ams OSRAM", "LG L29K-F2J1-24" (!) = "", "LEDC1308X67N", "LEDs Chip", "720-LGL29KF2J124Z", "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/LG-L29K-F2J1-24?qs=fnYUjNMxfVByrkxdJaMWtQ%3D%3D", "Green 0603 SMARTLED LG L29K-F2J1-24 Osram Opto LG L29K-F2J1-24, SMARTLED Series Green High-Power LED, 570 nm, 1608 (0603), Rectangle Lens SMD Package", "http://www.osram-os.com/Graphics/XPic0/00167682_0.pdf", "0.67 mm"
+END_PART
+
+END.

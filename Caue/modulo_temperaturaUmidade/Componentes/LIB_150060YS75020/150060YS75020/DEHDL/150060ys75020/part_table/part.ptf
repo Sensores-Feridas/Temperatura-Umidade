@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '150060YS75020'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "150060YS75020" (!) = "", "150060YS75020", "Other", "710-150060YS75020", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150060YS75020?qs=d0WKAl%252BL4KaB8TvTwBNhow%3D%3D", "WURTH ELEKTRONIK - 150060YS75020 - LED, Yellow, SMD, 0603 [1608 Metric], 20 mA, 2 V, 590 nm", "https://componentsearchengine.com/Datasheets/2/150060YS75020.pdf", "0.45 mm"
+END_PART
+
+END.

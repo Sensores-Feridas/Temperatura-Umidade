@@ -1,0 +1,9 @@
+Change Component Parameter Description in C23 Old=Capacitor
+Cerâmico
+C0G (NP0) New=Capacitor cerâmico C0G (NP0)
+Change Component Parameter Description in C24 Old=Capacitor
+Cerâmico de baixa ESR
+X7R ou X5R New=Capacitor cerâmico de baixa ESR, X7R ou X5R
+Change Component Parameter Description in C25 Old=Capacitor
+Cerâmico de baixa ESR
+X7R ou X5R New=Capacitor cerâmico de baixa ESR, X7R ou X5R

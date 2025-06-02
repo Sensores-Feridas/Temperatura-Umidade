@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1165327"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-09:13:26)
+    (utime 2023-03-07-09:13:26)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CRCW060310K0JNEC")
+)
+
+
+(pinAssign "ECS_1165327"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-09:13:26)
+    (utime 2023-03-07-09:13:26)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1165327")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CRCW060310K0JNEC")
+)
+
+
+(part "CRCW060310K0JNEC"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-09:13:26)
+    (utime 2023-03-07-09:13:26)
+    (packageRef "CRCW060310K0JNEC")
+    (pinAssignRef "ECS_1165327")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Standard Thick Film Chip Resistors value 10K0 ohm.")
+    (property "Mouser_Part_Number" "71-CRCW060310K0JNEC")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW060310K0JNEC?qs=gnZt%252BHwOA9IkijYdcORGsg%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "CRCW060310K0JNEC")
+    (property "Datasheet_Link" "http://www.vishay.com/docs/20035/dcrcwe3.pdf")
+    (property "compAreaTopHeight" 0.5)
+)
+
+

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_172731"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-08:54:57)
+    (utime 2025-01-03-17:04:14)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "GRM155R71C104KA88D")
+)
+
+
+(pinAssign "ECS_172731"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-08:54:57)
+    (utime 2025-01-03-17:04:14)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_172731")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "GRM155R71C104KA88D")
+)
+
+
+(part "GRM155R71C104KA88D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-08:54:57)
+    (utime 2025-01-03-17:04:14)
+    (packageRef "GRM155R71C104KA88D")
+    (pinAssignRef "ECS_172731")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Ceramic  SMT capacitor 100nF 16Vdc Murata 0402 GRM 100nF Ceramic Multilayer Capacitor, 16 V dc X7R Dielectric ??10%")
+    (property "Mouser_Part_Number" "N/A")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "GRM155R71C104KA88D")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/GRM155R71C104KA88D.pdf")
+    (property "compAreaTopHeight" 0.7)
+)
+
+

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT0603BRE075KL
+D Thin Film Resistors - SMD 5K ohm 0.1% 50 ppm High-Precision
+K
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_13.pdf
+$ENDCMP
+#
+#End Doc Library

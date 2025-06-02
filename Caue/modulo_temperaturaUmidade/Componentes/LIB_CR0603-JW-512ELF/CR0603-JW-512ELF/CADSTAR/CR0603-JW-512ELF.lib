@@ -1,0 +1,16 @@
+.CR0603-JW-512ELF :1 ;Bourns CR0603 Series Thick Film Surface Mount Resistor 0603 Case 5.1k 0.1W +/-200ppm/C
+RESC1608X55N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CR0603-JW-512ELF
+~!Mouser Part Number (652-CR0603JW-512ELF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/CR0603-JW-512ELF?qs=tknLyCMIRbPZxuQi5AOTVg%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (CR0603-JW-512ELF)
+~!Link Datasheet (https://www.bourns.com/pdfs/chpreztr.pdf)
+~!Height (0.55mm)
+~!3D_Model (CR0603-JW-512ELF)
+CR0603-JW-512ELF
+1.1!U 2.1!U 

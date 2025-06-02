@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_16555197"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-01-24-06:06:14)
+    (utime 2024-01-30-14:23:31)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "LY_L29K-H1K2-26")
+)
+
+
+(pinAssign "ECS_16555197"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-01-24-06:06:14)
+    (utime 2024-01-30-14:23:31)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_16555197")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "LY_L29K-H1K2-26")
+)
+
+
+(part "LY_L29K-H1K2-26"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-01-24-06:06:14)
+    (utime 2024-01-30-14:23:31)
+    (packageRef "LY_L29K-H1K2-26")
+    (pinAssignRef "ECS_16555197")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Standard LEDs - SMD Smartled VIS")
+    (property "Mouser_Part_Number" "720-LYL29KH1K226Z")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/LY-L29K-H1K2-26?qs=NTcu%252BMSV%252BkOdHd4qoSi5WQ%3D%3D")
+    (property "Manufacturer_Name" "ams OSRAM")
+    (property "Manufacturer_Part_Number" "LY L29K-H1K2-26")
+    (property "Datasheet_Link" "https://dammedia.osram.info/media/resource/hires/osram-dam-5662688/LY%20L29K_EN.pdf")
+    (property "compAreaTopHeight" 0.67)
+)
+
+

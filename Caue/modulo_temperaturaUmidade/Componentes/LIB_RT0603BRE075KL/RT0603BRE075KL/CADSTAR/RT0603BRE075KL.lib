@@ -1,0 +1,16 @@
+.RT0603BRE075KL :1 ;Thin Film Resistors - SMD 5K ohm 0.1% 50 ppm High-Precision
+RESC1608X55N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RT0603BRE075KL
+~!Mouser Part Number (603-RT0603BRE075KL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/YAGEO/RT0603BRE075KL?qs=acBVhj9v9XV8K9glB49uvw%3D%3D)
+~!Manufacturer_Name (YAGEO)
+~!Manufacturer_Part_Number (RT0603BRE075KL)
+~!Link Datasheet (https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_13.pdf)
+~!Height (0.55mm)
+~!3D_Model (RT0603BRE075KL)
+RT0603BRE075KL
+1.1!U 2.1!U 

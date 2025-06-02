@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "150060YS75020"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-03-30-09:49:38)
+    (mountForm default
+        (footprintRef "150060YS75020")
+        (spec "System")
+    )
+)

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_715355"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-11-14:49:12)
+    (utime 2023-03-28-06:12:59)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "LTST-C170KSKT")
+)
+
+
+(pinAssign "ECS_715355"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-11-14:49:12)
+    (utime 2023-03-28-06:12:59)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_715355")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "LTST-C170KSKT")
+)
+
+
+(part "LTST-C170KSKT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-11-14:49:12)
+    (utime 2023-03-28-06:12:59)
+    (packageRef "LTST-C170KSKT")
+    (pinAssignRef "ECS_715355")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Lite-On CHIPLED 0805 587 nm Yellow LED, 2012 (0805) SMD package")
+    (property "Mouser_Part_Number" "859-LTST-C170KSKT")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170KSKT?qs=AE3TPmDL7tsrsw78NmHd9g%3D%3D")
+    (property "Manufacturer_Name" "Lite-On")
+    (property "Manufacturer_Part_Number" "LTST-C170KSKT")
+    (property "Datasheet_Link" "http://optoelectronics.liteon.com/upload/download/ds-22-99-0188/ltst-c170kskt.pdf")
+    (property "compAreaTopHeight" 1.2)
+)
+
+

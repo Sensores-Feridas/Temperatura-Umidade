@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=150060YS75020
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2022-03-30 09:49:38
+Downloaded=2025-04-10 13:57:09
+3D=Y

@@ -1,0 +1,122 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CSL1001BT1C"
+   (description "Blue 468nm LED Indication - Discrete 2.8V 0603 (1608 Metric)")
+   (family "DIO")
+   (package "CSL1001BT1C")
+   (attribute "Datasheet Link" "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/csl1001bt1(c)-e.pdf")
+   (attribute "Geometry.Height" "1.16mm")
+   (attribute "Mouser Part Number" "755-CSL1001BT1C")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/CSL1001BT1C?qs=HoCaDK9Nz5fqNTX3Pg0ReA%3D%3D")
+   (attribute "Manufacturer_Name" "ROHM Semiconductor")
+   (attribute "Manufacturer_Part_Number" "CSL1001BT1C")
+   (gate
+    (symbol "CSL1001BT1C")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "CSL1001BT1C"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 250 100) (pt 150 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 350 100) (pt 250 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 200 0) (pt 400 100) (pt 400 -100) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 210 170) (pt 180 140) (pt 150 200) (pt 210 170))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 310 170) (pt 280 140) (pt 250 200) (pt 310 170))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 10 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 600 0) (rot 0) (mir X) (visible true))
+    (name (pt 10 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CSL1001BT1C"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.4 0.8)
+      (pt 0.4 0.8)
+      (pt 0.4 -0.8)
+      (pt -0.4 -0.8)
+      (pt -0.4 0.8))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.4 2.225)
+      (pt 1.4 2.225)
+      (pt 1.4 -2.225)
+      (pt -1.4 -2.225)
+      (pt -1.4 2.225))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -1.7)
+      (arc (pt 0.000 -1.700) (pt -0.050 -1.800) (pt 0.050 -1.700) (start 180.0) (sweep 90.0))
+      (pt 0 -1.8)
+      (arc (pt 0.000 -1.800) (pt -0.050 -1.800) (pt 0.050 -1.700) (start 180.0) (sweep -90.0))
+      (pt 0 -1.7))))
+   (leg 1 (pt 0.000 -0.825) (padstack 0))
+   (leg 2 (pt 0.000 0.825) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.800 0.800 0 0 90.000))
+   )
+   (model "CSL1001BT1C.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

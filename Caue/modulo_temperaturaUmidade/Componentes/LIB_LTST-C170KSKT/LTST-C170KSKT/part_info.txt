@@ -1,0 +1,9 @@
+Manufacturer=Lite-On
+PartNumber=LTST-C170KSKT
+PartCategory=LED
+PackageCategory=LEDs Chip
+PinCount=2
+Version=1.1
+Released=2018-07-11 14:49:12
+Downloaded=2025-04-02 16:40:12
+3D=Y

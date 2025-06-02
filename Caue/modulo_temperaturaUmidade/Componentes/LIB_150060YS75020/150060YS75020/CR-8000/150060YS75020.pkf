@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "150060YS75020"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "150060YS75020")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM155R71C103KA01D
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=4.1
+Released=2023-03-07 08:54:55
+Downloaded=2025-04-04 01:46:46
+3D=Y

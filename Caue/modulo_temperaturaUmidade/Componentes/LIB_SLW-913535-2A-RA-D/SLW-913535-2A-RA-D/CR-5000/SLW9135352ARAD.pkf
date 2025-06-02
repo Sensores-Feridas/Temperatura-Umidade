@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SLW9135352ARAD"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SLW9135352ARAD")
+        (spec "default")
+    )
+)

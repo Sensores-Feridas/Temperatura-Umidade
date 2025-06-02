@@ -1,0 +1,9 @@
+Manufacturer=Susumu
+PartNumber=RR0816P-162-D
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.2
+Released=2020-09-20 14:35:57
+Downloaded=2025-04-14 16:11:47
+3D=Y
